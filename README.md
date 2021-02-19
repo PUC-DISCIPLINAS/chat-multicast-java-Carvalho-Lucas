@@ -53,7 +53,7 @@ Métodos:
 - IniciarLeitor/IniciarEscritor: Lê a mensagem enviada para o servidor, recebe o texto digitado pelo usuário, identifica cada usuário logado no servidor por nome (Não aceita nomes repetidos).
 Seleciona usuário no servidor para conversa privada.
 
--listaDeUsuarios: Responsável por listar usuários disponíveis para chat.
+- listaDeUsuarios: Responsável por listar usuários disponíveis para chat.
 
 A classe ClienteSwing ainda implementa JFrame, de forma a dar interface para o chat.
 
